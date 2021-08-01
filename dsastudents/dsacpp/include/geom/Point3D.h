@@ -22,7 +22,7 @@
 using namespace std;
 
 #define EPSILON (1E-8)
-
+// this is a change in this file
 #include "geom/Vector3D.h"
 class Point3D {
 public:
