@@ -23,6 +23,7 @@ using namespace std;
 
 #define EPSILON (1E-8)
 // this is a change in this file
+// if this statement appear on git, local push to repo success
 #include "geom/Vector3D.h"
 class Point3D {
 public:
