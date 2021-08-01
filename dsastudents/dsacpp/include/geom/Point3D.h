@@ -20,7 +20,6 @@
 #include <random>
 #include <sstream>
 using namespace std;
-// this is a comment
 #define EPSILON (1E-8)
 
 #include "geom/Vector3D.h"
