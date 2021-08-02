@@ -10,7 +10,7 @@
  *
  * Created on 22 August 2020, 21:57
  */
-//edited by duy hung
+
 #ifndef XHASHMAP_H
 #define XHASHMAP_H
 #include <iostream>
